@@ -1,0 +1,24 @@
+#Footer {
+    margin: 0px;
+    color: #fff;
+    width: 100%;
+    background-color: #292929;
+    justify-content: space-between; 
+    flex-direction: row;
+    display: inline-flex;
+    font-size: 18px;
+}
+.socialMedia{
+    margin: 0px;
+    display: inline;
+    justify-content: space-between;
+}
+.Linkedin {
+    width: 25px;
+    height: 25px;
+}
+
+.Github {
+    width: 25px;
+    height: 25px;
+}

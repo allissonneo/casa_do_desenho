@@ -1,0 +1,14 @@
+#contact{
+    background-color: #9b8884;
+    background-image: url('./../../assets/Contact.png');
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position: center;
+   
+    background-repeat: no-repeat;
+}
